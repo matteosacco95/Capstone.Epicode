@@ -1,0 +1,14 @@
+code,label,note
+11,Defective traffic signals,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+12,Permanent road signing or markings defective or obscured or inadequate,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+13,Roadworks,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+14,Oil or diesel,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+15,Mud,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+16,Dislodged vehicle load in carriageway,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+17,Other object in carriageway,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+18,Involvement with previous collision,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+19,Pedestrian in carriageway - not injured,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+20,Any animal in carriageway (except ridden horse),New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+21,Poor or defective road surface,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+-1,Data missing or out of range,New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification
+99,unknown (self reported),New field added with the 2024 data - data collected in or converted to the 2024 STATS19 specification

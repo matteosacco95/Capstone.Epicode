@@ -1,0 +1,4 @@
+measurement_type_id,measurement_type,label,unit
+1,PM10 particulate matter (Hourly measured),PM10,µg/m³
+2,Carbon monoxide,CO,mg/m³
+3,PM2.5 particulate matter (Hourly measured),PM2.5,µg/m³

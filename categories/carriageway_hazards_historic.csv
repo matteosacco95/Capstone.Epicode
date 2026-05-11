@@ -1,0 +1,10 @@
+code,label,note
+1,Vehicle load on road,data collected in the 2011 STATS19 specification (or earlier)
+2,Other object on road,data collected in the 2011 STATS19 specification (or earlier)
+3,Previous accident,data collected in the 2011 STATS19 specification (or earlier)
+4,Dog on road,data collected in the 2011 STATS19 specification (or earlier)
+5,Other animal on road,data collected in the 2011 STATS19 specification (or earlier)
+6,Pedestrian in carriageway - not injured,data collected in the 2011 STATS19 specification (or earlier)
+7,Any animal in carriageway (except ridden horse),data collected in the 2011 STATS19 specification (or earlier)
+-1,Data missing or out of range,data collected in the 2011 STATS19 specification (or earlier)
+9,unknown (self reported),data collected in the 2011 STATS19 specification (or earlier)

@@ -1,0 +1,38 @@
+STAR SCHEMA STRUCTURE (SEPARATE DIMENSIONS)
+============================================================
+
+Original Rows: 12
+Final Fact Rows: 12
+
+USER REQUESTS IMPLEMENTED:
+  1. Dropped 'newcountry' column.
+  2. Created SEPARATE dimension tables for EACH category column.
+  3. Used 'city_id' as Primary Key (No synthetic fact_id).
+
+FACT TABLE: fact_measurements
+  Primary Key: city_id
+  Foreign Keys: ['country_id', 'AQI Category_id', 'CO AQI Category_id', 'Ozone AQI Category_id', 'NO2 AQI Category_id', 'PM2.5 AQI Category_id']
+  Measures: ['AQI Value', 'CO AQI Value', 'Ozone AQI Value', 'NO2 AQI Value', 'PM2.5 AQI Value']
+
+DIMENSION TABLES:
+  - dim_country.csv
+    Primary Key: country_id
+    Unique Values: 1
+  - dim_city.csv
+    Primary Key: city_id
+    Unique Values: 12
+  - dim_AQI Category.csv
+    Primary Key: AQI Category_id
+    Unique Values: 2
+  - dim_CO AQI Category.csv
+    Primary Key: CO AQI Category_id
+    Unique Values: 1
+  - dim_Ozone AQI Category.csv
+    Primary Key: Ozone AQI Category_id
+    Unique Values: 1
+  - dim_NO2 AQI Category.csv
+    Primary Key: NO2 AQI Category_id
+    Unique Values: 1
+  - dim_PM2.5 AQI Category.csv
+    Primary Key: PM2.5 AQI Category_id
+    Unique Values: 2

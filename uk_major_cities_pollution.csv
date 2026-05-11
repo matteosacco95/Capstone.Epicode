@@ -1,0 +1,13 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,newCountry
+United Kingdom of Great Britain and Northern Ireland,Brighton,28,Good,1,Good,28,Good,4,Good,22,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Sheffield,31,Good,0,Good,30,Good,3,Good,31,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Southampton,39,Good,1,Good,15,Good,11,Good,39,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Nottingham,49,Good,1,Good,17,Good,8,Good,49,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Leicester,33,Good,1,Good,16,Good,10,Good,33,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,London,40,Good,1,Good,11,Good,11,Good,40,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Coventry,30,Good,0,Good,30,Good,1,Good,25,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Wolverhampton,32,Good,1,Good,32,Good,3,Good,22,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Northampton,34,Good,1,Good,29,Good,1,Good,34,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Edinburgh,35,Good,1,Good,35,Good,0,Good,32,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Liverpool,46,Good,1,Good,27,Good,4,Good,46,Good,United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland,Cardiff,67,Moderate,0,Good,33,Good,0,Good,67,Moderate,United Kingdom of Great Britain and Northern Ireland

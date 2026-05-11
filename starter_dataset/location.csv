@@ -1,0 +1,11 @@
+location_id,site_name,latitude,longitude,site_type,zone,agglomeration,local_authority
+1,London Bexley,51.466030,0.184806,Suburban Background,Greater London,Greater London Urban Area,Bexley
+2,London Bloomsbury,51.522290,-0.125889,Urban Background,Greater London,Greater London Urban Area,Camden
+3,London Eltham,51.452580,0.070766,Suburban Background,Greater London,Greater London Urban Area,Greenwich
+4,London Harlington,51.488790,-0.441614,Urban Industrial,Greater London,Greater London Urban Area,Hillingdon
+5,London Hillingdon,51.496330,-0.460861,Urban Background,Greater London,Greater London Urban Area,Hillingdon
+6,London Honor Oak Park,51.449674,-0.037418,Urban Background,Greater London,Greater London Urban Area,Lewisham
+7,London Marylebone Road,51.522530,-0.154611,Urban Traffic,Greater London,Greater London Urban Area,Westminster
+8,London N. Kensington,51.521050,-0.213419,Urban Background,Greater London,Greater London Urban Area,Kensington
+9,London Teddington Bushy Park,51.425286,-0.345606,Urban Background,Greater London,Greater London Urban Area,Richmond
+10,London Westminster,51.494670,-0.131931,Urban Background,Greater London,Greater London Urban Area,Westminster

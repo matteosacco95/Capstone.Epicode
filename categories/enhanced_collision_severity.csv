@@ -1,0 +1,7 @@
+code,label,note
+1,Fatal,category introduced where collected in 2023
+5,Very Serious,category introduced where collected in 2023
+6,Moderately Serious,category introduced where collected in 2023
+7,Less Serious,category introduced where collected in 2023
+3,Slight,category introduced where collected in 2023
+-1,Data missing or out of range,category introduced where collected in 2023
